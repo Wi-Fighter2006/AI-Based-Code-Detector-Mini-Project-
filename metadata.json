@@ -1,0 +1,5 @@
+{
+  "name": "CodeGuardian AI",
+  "description": "An advanced academic integrity system designed to detect AI-generated code and identify structural similarities between student submissions using Gemini 3's reasoning capabilities.",
+  "requestFramePermissions": []
+}
