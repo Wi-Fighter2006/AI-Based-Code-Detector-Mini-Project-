@@ -1,4 +1,4 @@
-# CodeGuard AI – AI Based Code Detection System
+# 🚀 CodeGuard AI – AI Based Code Detection System
 
 CodeGuard AI is a web-based application developed to analyze programming code and estimate whether the code is **AI-generated or written manually**. The project was created as a mini project to explore how artificial intelligence can be used to support **fair programming assessments** in educational environments.
 
@@ -8,7 +8,7 @@ The project demonstrates the integration of **modern web technologies, backend A
 
 ---
 
-## Live Application
+## 🌐 Live Application
 
 The project has been deployed and can be accessed here:
 
@@ -16,13 +16,13 @@ https://codeguard-ai-pvls.onrender.com
 
 ---
 
-## GitHub Repository
+## 📂 GitHub Repository
 
 https://github.com/Wi-Fighter2006/AI-Based-Code-Detector-Mini-Project-
 
 ---
 
-## Problem Statement
+## 📌 Problem Statement
 
 With the increasing availability of AI tools capable of generating programming solutions, it has become challenging for educators to determine whether a submitted program was written by a student or generated using AI assistance.
 
@@ -30,7 +30,7 @@ This project attempts to address this issue by providing a system that analyzes 
 
 ---
 
-## Objectives of the Project
+## 🎯 Objectives of the Project
 
 • Develop a web application capable of analyzing code submissions  
 • Explore how AI models can help identify AI-generated programming patterns  
@@ -40,7 +40,7 @@ This project attempts to address this issue by providing a system that analyzes 
 
 ---
 
-## Key Features
+## ✨ Key Features
 
 • Web interface for submitting code  
 • AI-based analysis of code patterns  
@@ -50,30 +50,30 @@ This project attempts to address this issue by providing a system that analyzes 
 
 ---
 
-## Technologies Used
+## 🛠 Technologies Used
 
-### Frontend
+### 💻 Frontend
 React  
 Vite  
 TypeScript  
 Tailwind CSS  
 
-### Backend
+### ⚙ Backend
 Node.js  
 Express.js  
 
-### Database
+### 🗄 Database
 SQLite (better-sqlite3)
 
-### AI Integration
+### 🤖 AI Integration
 Google Generative AI API
 
-### Deployment
+### ☁ Deployment
 Render Cloud Platform
 
 ---
 
-## System Workflow
+## 🔄 System Workflow
 
 1. The user enters or pastes code into the application interface.  
 2. The frontend sends the code to the backend server.  
@@ -83,7 +83,7 @@ Render Cloud Platform
 
 ---
 
-## Project Structure
+## 📁 Project Structure
 
 AI-Based-Code-Detector-Mini-Project  
 │  
@@ -98,7 +98,7 @@ AI-Based-Code-Detector-Mini-Project
 
 ---
 
-## Installation and Setup
+## ⚙ Installation and Setup
 
 ### Clone the repository
 
@@ -128,7 +128,7 @@ http://localhost:3000
 
 ---
 
-## Deployment
+## ☁ Deployment
 
 The project has been deployed using **Render**, which allows the application to run online without requiring local setup.
 
@@ -141,7 +141,7 @@ Deployment steps included:
 
 ---
 
-## Future Improvements
+## 🔮 Future Improvements
 
 • Support for additional programming languages  
 • More advanced AI detection techniques  
@@ -151,25 +151,25 @@ Deployment steps included:
 
 ---
 
-## Project Team
+## 👨‍💻 Project Team
 
 This project was developed by a team of three members:
 
-**Piyush Choudhary**  
+**👑 Piyush Choudhary**  
 Project Leader – Frontend Development  
 Responsible for designing and implementing the user interface.
 
-**Prasant Singh**  
+**⚙ Prasant Singh**  
 Backend Development  
 Worked on server logic, API integration, and code processing.
 
-**Dhananjay Chaudhary**  
+**☁ Dhananjay Chaudhary**  
 Deployment and Integration  
 Handled project deployment, system integration, and configuration.
 
 ---
 
-## Conclusion
+## 📚 Conclusion
 
 CodeGuard AI demonstrates how modern web development technologies and AI services can be combined to build practical tools for academic environments. The project provided hands-on experience with full-stack development, API integration, and cloud deployment.
 
